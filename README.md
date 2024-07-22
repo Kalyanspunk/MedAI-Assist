@@ -34,6 +34,7 @@ We welcome contributions from the community. If you'd like to contribute to MedA
 - [@kalyanspunk](https://github.com/Kalyanspunk)
 - [@PERAMPRAKASH](https://github.com/PERAMPRAKASH)
 - [@JASWANTH](https://github.com/jaswanthmatrix)
+- [@Vishal](https://github.com/Vishalkaitha)
 
 
 ## Documentation

@@ -1,5 +1,5 @@
 
-# Project Title
+# MED - AI
 
 MedAI-Assist is an innovative web-based platform that leverages artificial intelligence (AI) to provide medical assistance and information. Our AI-powered chatbot is designed to assist users with medical queries, offer health-related advice, and facilitate efficient interactions with healthcare services.
 
